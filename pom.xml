@@ -14,6 +14,9 @@
 <!--    <version>2.6.1</version>-->
 <!--    <relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
 <!--  </parent>-->
+
+
+
   <modules>
     <module>coloud-provider-payment8001</module>
     <module>cloud-consumer-order80</module>
